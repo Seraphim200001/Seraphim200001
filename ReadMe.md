@@ -4,7 +4,7 @@
 [![Openapi® Contributor](https://img.shields.io/badge/Openapi%C2%AE-Contributor-753f8b)](https://github.com/openapi/contributors)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Seraphim200001&show_icons=true&theme=ADD_THEME_HERE" width="400">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Seraphim200001&theme=dark" alt="GitHub Streak" /></a>
 
 
 
